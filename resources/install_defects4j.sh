@@ -1,4 +1,4 @@
-curl -L http://cpanmin.us | perl - App::cpanminus
+curl -L http://cpan.org | perl - App::cpanminus
 
 if [ ! -d defects4j ]; then
   git clone https://github.com/rjust/defects4j.git

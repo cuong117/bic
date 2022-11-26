@@ -1,4 +1,4 @@
-FROM nimmis/ubuntu:16.04
+FROM nimmis/ubuntu:20.04
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -45,10 +45,10 @@ ENV PATH="$M2:$PATH"
 RUN mvn -version
 
 # Install Python
-RUN add-apt-repository -y ppa:fkrull/deadsnakes
+RUN add-apt-repository -y ppa:deadsnakes/ppa
 RUN apt-get update
-RUN apt-get install -y --no-install-recommends python3.6 python3.6-dev python3-pip python3-setuptools python3-wheel gcc
-RUN python3.6 -m pip install pip --upgrade
+RUN apt-get install -y --no-install-recommends python3 python3-dev python3-pip python3-setuptools python3-wheel gcc
+RUN python3 -m pip install pip --upgrade
 
 WORKDIR /root
 

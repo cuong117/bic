@@ -1,88 +1,88 @@
-2021-07-04 05:54:41,882 INFO     Search BICs for /tmp/Lang-50b/
-2021-07-04 05:54:41,882 DEBUG    Reading the coverage of org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateInstance (failings)
-2021-07-04 05:54:41,887 DEBUG    Reading the coverage of org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateTimeInstance (failings)
-2021-07-04 05:54:41,894 INFO     Loaded 2x204 Coverage Matrix
-2021-07-04 05:54:41,894 INFO     The number of total commits: 1685
-2021-07-04 05:54:42,373 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <clinit> 110:110
-2021-07-04 05:54:42,431 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:42,437 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:42,442 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 537:555
-2021-07-04 05:54:42,497 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:42,502 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 233:235
-2021-07-04 05:54:42,557 DEBUG                  - depth 0, hash 122227c, HEAD~924
-2021-07-04 05:54:42,562 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 248:250
-2021-07-04 05:54:42,617 DEBUG                  - depth 0, hash 122227c, HEAD~924
-2021-07-04 05:54:42,622 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 279:305
-2021-07-04 05:54:42,682 DEBUG                  - depth 0, hash 85d6739, HEAD~868
-2021-07-04 05:54:42,687 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
-2021-07-04 05:54:42,691 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
-2021-07-04 05:54:42,695 DEBUG                  - depth 3, hash e794af9, HEAD~1413
-2021-07-04 05:54:42,699 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getInstance 211:220
-2021-07-04 05:54:42,756 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:42,761 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
-2021-07-04 05:54:42,766 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
-2021-07-04 05:54:42,770 DEBUG                  - depth 3, hash e794af9, HEAD~1413
-2021-07-04 05:54:42,774 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getLocale 953:955
-2021-07-04 05:54:42,832 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:42,837 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:42,841 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java hashCode 1000:1008
-2021-07-04 05:54:42,897 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:42,902 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java init 560:570
-2021-07-04 05:54:42,958 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:42,963 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java parsePattern 580:701
-2021-07-04 05:54:43,021 DEBUG                  - depth 0, hash 1df3e07, HEAD~708
-2021-07-04 05:54:43,026 DEBUG                  - depth 1, hash 5e0cb6e, HEAD~1141
-2021-07-04 05:54:43,030 DEBUG                  - depth 2, hash 9839566, HEAD~1274
-2021-07-04 05:54:43,034 DEBUG                  - depth 3, hash 87ea5b3, HEAD~1309
-2021-07-04 05:54:43,039 DEBUG                  - depth 4, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,043 DEBUG                  - depth 5, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,047 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java parseToken 710:760
-2021-07-04 05:54:43,107 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:43,112 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
-2021-07-04 05:54:43,116 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,120 DEBUG                  - depth 3, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,125 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java selectNumberRule 769:778
-2021-07-04 05:54:43,183 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:43,189 DEBUG                  - depth 1, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,193 DEBUG                  - depth 2, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,197 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1081:1083
-2021-07-04 05:54:43,254 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,260 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,264 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java estimateLength 1088:1090
-2021-07-04 05:54:43,322 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,328 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,332 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1272:1279
-2021-07-04 05:54:43,389 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,394 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,398 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1708:1711
-2021-07-04 05:54:43,455 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,461 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,465 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1112:1114
-2021-07-04 05:54:43,524 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,529 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,534 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1145:1148
-2021-07-04 05:54:43,591 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,597 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,601 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1185:1187
-2021-07-04 05:54:43,660 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,665 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,670 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 405:408
-2021-07-04 05:54:43,724 DEBUG                  - depth 0, hash 122227c, HEAD~924
-2021-07-04 05:54:43,730 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 422:425
-2021-07-04 05:54:43,785 DEBUG                  - depth 0, hash 122227c, HEAD~924
-2021-07-04 05:54:43,790 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 457:486
-2021-07-04 05:54:43,847 DEBUG                  - depth 0, hash e764003, HEAD~561
-2021-07-04 05:54:43,853 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
-2021-07-04 05:54:43,857 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,861 DEBUG                  - depth 3, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,866 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java equals 1716:1732
-2021-07-04 05:54:43,924 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:43,930 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:43,934 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1538:1551
-2021-07-04 05:54:43,992 DEBUG                  - depth 0, hash 9839566, HEAD~1274
-2021-07-04 05:54:43,998 DEBUG                  - depth 1, hash d3015ae, HEAD~1411
-2021-07-04 05:54:44,002 DEBUG                  - depth 2, hash e794af9, HEAD~1413
-2021-07-04 05:54:44,006 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1447:1449
-2021-07-04 05:54:44,064 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
-2021-07-04 05:54:44,070 DEBUG                  - depth 1, hash e794af9, HEAD~1413
-2021-07-04 05:54:44,074 INFO     The number of BIC candidates: 9
+2022-11-26 04:36:53,899 INFO     Search BICs for /tmp/Lang-50b/
+2022-11-26 04:36:53,900 DEBUG    Reading the coverage of org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateTimeInstance (failings)
+2022-11-26 04:36:53,905 DEBUG    Reading the coverage of org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateInstance (failings)
+2022-11-26 04:36:53,909 INFO     Loaded 2x204 Coverage Matrix
+2022-11-26 04:36:53,910 INFO     The number of total commits: 1685
+2022-11-26 04:36:54,850 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <clinit> 110:110
+2022-11-26 04:36:54,904 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:54,914 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:54,918 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 537:555
+2022-11-26 04:36:54,966 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:54,970 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 405:408
+2022-11-26 04:36:55,021 DEBUG                  - depth 0, hash 122227c, HEAD~924
+2022-11-26 04:36:55,025 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 422:425
+2022-11-26 04:36:55,066 DEBUG                  - depth 0, hash 122227c, HEAD~924
+2022-11-26 04:36:55,070 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateTimeInstance 457:486
+2022-11-26 04:36:55,116 DEBUG                  - depth 0, hash e764003, HEAD~561
+2022-11-26 04:36:55,119 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
+2022-11-26 04:36:55,122 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,124 DEBUG                  - depth 3, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,128 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getInstance 211:220
+2022-11-26 04:36:55,176 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,180 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
+2022-11-26 04:36:55,182 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,185 DEBUG                  - depth 3, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,188 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getLocale 953:955
+2022-11-26 04:36:55,236 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,240 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,243 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java hashCode 1000:1008
+2022-11-26 04:36:55,294 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,297 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java init 560:570
+2022-11-26 04:36:55,339 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,343 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java parsePattern 580:701
+2022-11-26 04:36:55,391 DEBUG                  - depth 0, hash 1df3e07, HEAD~708
+2022-11-26 04:36:55,395 DEBUG                  - depth 1, hash 5e0cb6e, HEAD~1141
+2022-11-26 04:36:55,398 DEBUG                  - depth 2, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,400 DEBUG                  - depth 3, hash 87ea5b3, HEAD~1309
+2022-11-26 04:36:55,402 DEBUG                  - depth 4, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,405 DEBUG                  - depth 5, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,408 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java parseToken 710:760
+2022-11-26 04:36:55,509 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,514 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
+2022-11-26 04:36:55,518 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,526 DEBUG                  - depth 3, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,530 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java selectNumberRule 769:778
+2022-11-26 04:36:55,591 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:55,596 DEBUG                  - depth 1, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,601 DEBUG                  - depth 2, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,605 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1081:1083
+2022-11-26 04:36:55,657 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,661 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,666 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java estimateLength 1088:1090
+2022-11-26 04:36:55,715 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,721 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,725 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1272:1279
+2022-11-26 04:36:55,772 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,777 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,781 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1708:1711
+2022-11-26 04:36:55,837 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,841 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,844 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java equals 1716:1732
+2022-11-26 04:36:55,899 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,903 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,906 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1112:1114
+2022-11-26 04:36:55,950 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:55,955 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:55,958 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1145:1148
+2022-11-26 04:36:56,003 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:56,007 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:56,010 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1538:1551
+2022-11-26 04:36:56,056 DEBUG                  - depth 0, hash 9839566, HEAD~1274
+2022-11-26 04:36:56,060 DEBUG                  - depth 1, hash d3015ae, HEAD~1411
+2022-11-26 04:36:56,062 DEBUG                  - depth 2, hash e794af9, HEAD~1413
+2022-11-26 04:36:56,065 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1447:1449
+2022-11-26 04:36:56,110 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:56,114 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:56,117 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java <init> 1332:1334
+2022-11-26 04:36:56,163 DEBUG                  - depth 0, hash d3015ae, HEAD~1411
+2022-11-26 04:36:56,167 DEBUG                  - depth 1, hash e794af9, HEAD~1413
+2022-11-26 04:36:56,170 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 233:235
+2022-11-26 04:36:56,212 DEBUG                  - depth 0, hash 122227c, HEAD~924
+2022-11-26 04:36:56,216 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 248:250
+2022-11-26 04:36:56,259 DEBUG                  - depth 0, hash 122227c, HEAD~924
+2022-11-26 04:36:56,264 DEBUG    [line range] org/apache/commons/lang/time/FastDateFormat.java getDateInstance 279:305
+2022-11-26 04:36:56,310 DEBUG                  - depth 0, hash 85d6739, HEAD~868
+2022-11-26 04:36:56,314 DEBUG                  - depth 1, hash 87ea5b3, HEAD~1309
+2022-11-26 04:36:56,316 DEBUG                  - depth 2, hash d3015ae, HEAD~1411
+2022-11-26 04:36:56,321 DEBUG                  - depth 3, hash e794af9, HEAD~1413
+2022-11-26 04:36:56,325 INFO     The number of BIC candidates: 9

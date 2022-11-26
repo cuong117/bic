@@ -43,7 +43,7 @@ class D4JBug:
 
   def get_coverage_matrix(self, test_types=['failings', 'passings']):
     if not os.path.exists(os.path.join(self.project_root, 'coverage_xmls')):
-      raise NoCoverageDirException
+      raise "NoCoverageDirException"
 
     available_test_types = {
       'failings': 0,
